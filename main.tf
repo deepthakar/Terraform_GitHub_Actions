@@ -26,7 +26,7 @@ provider "aws" {
 }
 
 
- ##### TEST #######
+ ##### TEST for personal repo  #######
 
 
 resource "random_pet" "sg" {}
